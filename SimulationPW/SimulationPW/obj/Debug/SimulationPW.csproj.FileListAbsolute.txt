@@ -1,0 +1,10 @@
+D:\Studia\magisterskie\Informatyka\Programowanie współbieżne\lab\Projekt symulacji\SimulationPW\SimulationPW\bin\Debug\SimulationPW.exe.config
+D:\Studia\magisterskie\Informatyka\Programowanie współbieżne\lab\Projekt symulacji\SimulationPW\SimulationPW\bin\Debug\SimulationPW.exe
+D:\Studia\magisterskie\Informatyka\Programowanie współbieżne\lab\Projekt symulacji\SimulationPW\SimulationPW\bin\Debug\SimulationPW.pdb
+D:\Studia\magisterskie\Informatyka\Programowanie współbieżne\lab\Projekt symulacji\SimulationPW\SimulationPW\obj\Debug\SimulationPW.csproj.AssemblyReference.cache
+D:\Studia\magisterskie\Informatyka\Programowanie współbieżne\lab\Projekt symulacji\SimulationPW\SimulationPW\obj\Debug\SimulationPW.Form1.resources
+D:\Studia\magisterskie\Informatyka\Programowanie współbieżne\lab\Projekt symulacji\SimulationPW\SimulationPW\obj\Debug\SimulationPW.Properties.Resources.resources
+D:\Studia\magisterskie\Informatyka\Programowanie współbieżne\lab\Projekt symulacji\SimulationPW\SimulationPW\obj\Debug\SimulationPW.csproj.GenerateResource.cache
+D:\Studia\magisterskie\Informatyka\Programowanie współbieżne\lab\Projekt symulacji\SimulationPW\SimulationPW\obj\Debug\SimulationPW.csproj.CoreCompileInputs.cache
+D:\Studia\magisterskie\Informatyka\Programowanie współbieżne\lab\Projekt symulacji\SimulationPW\SimulationPW\obj\Debug\SimulationPW.exe
+D:\Studia\magisterskie\Informatyka\Programowanie współbieżne\lab\Projekt symulacji\SimulationPW\SimulationPW\obj\Debug\SimulationPW.pdb
