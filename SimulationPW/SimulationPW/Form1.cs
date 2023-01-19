@@ -417,7 +417,7 @@ namespace SimulationPW
             Double fileSizeCalculatedValue = 0.0;
             Double minutesElapsed = ts.Minutes;
             Double timeElapsedCalculatedValue = Math.Log(minutesElapsed + 1)/numberOfClientFiles;
-            Double calculationFileSize = fileSize / 1.0;
+            Double calculationFileSize = fileSize / 100.0;
             
             if(calculationFileSize != 1.0000)
                 fileSizeCalculatedValue = (Math.Log(calculationFileSize) /(calculationFileSize - 1)) * numberOfClientFiles;
@@ -429,6 +429,11 @@ namespace SimulationPW
         private int calculateStepByWeight(Double fileSize)
         {
             return (int)((((Math.Abs( fileSize - 1000000)) / 1000000) * stepToCalculate) + minStep);
+        }
+
+        private void label8_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
